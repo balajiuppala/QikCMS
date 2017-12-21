@@ -1,0 +1,11 @@
+D:\Projects\QikCMS\QikCMS\QikCMS.Data.EF.MSSQL\bin\Debug\netcoreapp2.0\QikCMS.Data.EF.MSSQL.deps.json
+D:\Projects\QikCMS\QikCMS\QikCMS.Data.EF.MSSQL\bin\Debug\netcoreapp2.0\QikCMS.Data.EF.MSSQL.dll
+D:\Projects\QikCMS\QikCMS\QikCMS.Data.EF.MSSQL\obj\Debug\netcoreapp2.0\QikCMS.Data.EF.MSSQL.csprojResolveAssemblyReference.cache
+D:\Projects\QikCMS\QikCMS\QikCMS.Data.EF.MSSQL\obj\Debug\netcoreapp2.0\QikCMS.Data.EF.MSSQL.csproj.CoreCompileInputs.cache
+D:\Projects\QikCMS\QikCMS\QikCMS.Data.EF.MSSQL\obj\Debug\netcoreapp2.0\QikCMS.Data.EF.MSSQL.AssemblyInfoInputs.cache
+D:\Projects\QikCMS\QikCMS\QikCMS.Data.EF.MSSQL\obj\Debug\netcoreapp2.0\QikCMS.Data.EF.MSSQL.AssemblyInfo.cs
+D:\Projects\QikCMS\QikCMS\QikCMS.Data.EF.MSSQL\bin\Debug\netcoreapp2.0\QikCMS.Data.EF.MSSQL.pdb
+D:\Projects\QikCMS\QikCMS\QikCMS.Data.EF.MSSQL\bin\Debug\netcoreapp2.0\QikCMS.Core.dll
+D:\Projects\QikCMS\QikCMS\QikCMS.Data.EF.MSSQL\bin\Debug\netcoreapp2.0\QikCMS.Core.pdb
+D:\Projects\QikCMS\QikCMS\QikCMS.Data.EF.MSSQL\obj\Debug\netcoreapp2.0\QikCMS.Data.EF.MSSQL.dll
+D:\Projects\QikCMS\QikCMS\QikCMS.Data.EF.MSSQL\obj\Debug\netcoreapp2.0\QikCMS.Data.EF.MSSQL.pdb

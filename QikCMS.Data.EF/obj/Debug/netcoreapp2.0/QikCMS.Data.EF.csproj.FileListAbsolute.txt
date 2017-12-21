@@ -1,0 +1,11 @@
+D:\Projects\QikCMS\QikCMS\QikCMS.Data.EF\bin\Debug\netcoreapp2.0\QikCMS.Data.EF.deps.json
+D:\Projects\QikCMS\QikCMS\QikCMS.Data.EF\bin\Debug\netcoreapp2.0\QikCMS.Data.EF.dll
+D:\Projects\QikCMS\QikCMS\QikCMS.Data.EF\bin\Debug\netcoreapp2.0\QikCMS.Data.EF.pdb
+D:\Projects\QikCMS\QikCMS\QikCMS.Data.EF\bin\Debug\netcoreapp2.0\QikCMS.Core.dll
+D:\Projects\QikCMS\QikCMS\QikCMS.Data.EF\bin\Debug\netcoreapp2.0\QikCMS.Core.pdb
+D:\Projects\QikCMS\QikCMS\QikCMS.Data.EF\obj\Debug\netcoreapp2.0\QikCMS.Data.EF.csprojResolveAssemblyReference.cache
+D:\Projects\QikCMS\QikCMS\QikCMS.Data.EF\obj\Debug\netcoreapp2.0\QikCMS.Data.EF.csproj.CoreCompileInputs.cache
+D:\Projects\QikCMS\QikCMS\QikCMS.Data.EF\obj\Debug\netcoreapp2.0\QikCMS.Data.EF.AssemblyInfoInputs.cache
+D:\Projects\QikCMS\QikCMS\QikCMS.Data.EF\obj\Debug\netcoreapp2.0\QikCMS.Data.EF.AssemblyInfo.cs
+D:\Projects\QikCMS\QikCMS\QikCMS.Data.EF\obj\Debug\netcoreapp2.0\QikCMS.Data.EF.dll
+D:\Projects\QikCMS\QikCMS\QikCMS.Data.EF\obj\Debug\netcoreapp2.0\QikCMS.Data.EF.pdb

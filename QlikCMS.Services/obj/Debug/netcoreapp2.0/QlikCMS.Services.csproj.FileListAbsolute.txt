@@ -1,0 +1,11 @@
+D:\Projects\QikCMS\QikCMS\QlikCMS.Services\bin\Debug\netcoreapp2.0\QlikCMS.Services.deps.json
+D:\Projects\QikCMS\QikCMS\QlikCMS.Services\bin\Debug\netcoreapp2.0\QlikCMS.Services.dll
+D:\Projects\QikCMS\QikCMS\QlikCMS.Services\bin\Debug\netcoreapp2.0\QlikCMS.Services.pdb
+D:\Projects\QikCMS\QikCMS\QlikCMS.Services\obj\Debug\netcoreapp2.0\QlikCMS.Services.csprojResolveAssemblyReference.cache
+D:\Projects\QikCMS\QikCMS\QlikCMS.Services\obj\Debug\netcoreapp2.0\QlikCMS.Services.csproj.CoreCompileInputs.cache
+D:\Projects\QikCMS\QikCMS\QlikCMS.Services\obj\Debug\netcoreapp2.0\QlikCMS.Services.AssemblyInfoInputs.cache
+D:\Projects\QikCMS\QikCMS\QlikCMS.Services\obj\Debug\netcoreapp2.0\QlikCMS.Services.AssemblyInfo.cs
+D:\Projects\QikCMS\QikCMS\QlikCMS.Services\obj\Debug\netcoreapp2.0\QlikCMS.Services.dll
+D:\Projects\QikCMS\QikCMS\QlikCMS.Services\obj\Debug\netcoreapp2.0\QlikCMS.Services.pdb
+D:\Projects\QikCMS\QikCMS\QlikCMS.Services\bin\Debug\netcoreapp2.0\QikCMS.Core.dll
+D:\Projects\QikCMS\QikCMS\QlikCMS.Services\bin\Debug\netcoreapp2.0\QikCMS.Core.pdb

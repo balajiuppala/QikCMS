@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QikCMS.Core", "QikCMS.Core\QikCMS.Core.csproj", "{E4C5E6AF-D33B-4B81-BAC2-55BED274D25C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QikCMS.Data.EF.MSSQL", "QikCMS.Data.EF.MSSQL\QikCMS.Data.EF.MSSQL.csproj", "{FC67568F-1D16-42C2-9D3C-E19E237ED2B4}"
+	ProjectSection(ProjectDependencies) = postProject
+		{E4C5E6AF-D33B-4B81-BAC2-55BED274D25C} = {E4C5E6AF-D33B-4B81-BAC2-55BED274D25C}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QlikCMS.Services", "QlikCMS.Services\QlikCMS.Services.csproj", "{AB28EA90-2DB9-4D69-BF29-ACFB9580A61B}"
+	ProjectSection(ProjectDependencies) = postProject
+		{E4C5E6AF-D33B-4B81-BAC2-55BED274D25C} = {E4C5E6AF-D33B-4B81-BAC2-55BED274D25C}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{78F5B8B6-9F95-428B-B130-24F1158FD3CC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QikCMS.Data.EF", "QikCMS.Data.EF\QikCMS.Data.EF.csproj", "{DD8F0505-857A-4E0A-98A1-E44254571BC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4C5E6AF-D33B-4B81-BAC2-55BED274D25C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4C5E6AF-D33B-4B81-BAC2-55BED274D25C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4C5E6AF-D33B-4B81-BAC2-55BED274D25C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4C5E6AF-D33B-4B81-BAC2-55BED274D25C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC67568F-1D16-42C2-9D3C-E19E237ED2B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC67568F-1D16-42C2-9D3C-E19E237ED2B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC67568F-1D16-42C2-9D3C-E19E237ED2B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC67568F-1D16-42C2-9D3C-E19E237ED2B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB28EA90-2DB9-4D69-BF29-ACFB9580A61B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB28EA90-2DB9-4D69-BF29-ACFB9580A61B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB28EA90-2DB9-4D69-BF29-ACFB9580A61B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB28EA90-2DB9-4D69-BF29-ACFB9580A61B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78F5B8B6-9F95-428B-B130-24F1158FD3CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78F5B8B6-9F95-428B-B130-24F1158FD3CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78F5B8B6-9F95-428B-B130-24F1158FD3CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78F5B8B6-9F95-428B-B130-24F1158FD3CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD8F0505-857A-4E0A-98A1-E44254571BC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD8F0505-857A-4E0A-98A1-E44254571BC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD8F0505-857A-4E0A-98A1-E44254571BC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD8F0505-857A-4E0A-98A1-E44254571BC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02C8C83F-95FA-4632-A3B6-913B5F6A812D}
+	EndGlobalSection
+EndGlobal
